@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "POUxtQZUXZ4NPtY4t20i+Bsc3El04Khb0aWue6jBGiPAiRS5bnzm8yGh2pE/wk17u4sZQdx0msnySGwCnGxNUA==",
+  "dgSpecHash": "EN/jV3otTLrdXDjp0xaVhAagYThXF0+1ILrpcdaVXBGcCDLFEpvS6E8cDOnb2Ebkmj8Vy+OwYZHY9+fU5jF0hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SOP\\OneDrive - EASYTECH AFRICA\\Bureau\\EASYERP\\EASY-ERP\\Tests_dev\\exemple pratique.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\SOP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\mikol\\Music\\asp\\exemple pratique\\exemple pratique.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
