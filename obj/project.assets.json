@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\mikol\\.nuget\\packages\\": {}
+    "C:\\Users\\attak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikol\\Music\\asp\\exemple pratique\\exemple pratique.csproj",
+      "projectUniqueName": "C:\\Users\\attak\\Source\\Repos\\easyerp\\exemple pratique.csproj",
       "projectName": "exemple pratique",
-      "projectPath": "C:\\Users\\mikol\\Music\\asp\\exemple pratique\\exemple pratique.csproj",
-      "packagesPath": "C:\\Users\\mikol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikol\\Music\\asp\\exemple pratique\\obj\\",
+      "projectPath": "C:\\Users\\attak\\Source\\Repos\\easyerp\\exemple pratique.csproj",
+      "packagesPath": "C:\\Users\\attak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\attak\\Source\\Repos\\easyerp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\attak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
