@@ -1,0 +1,37 @@
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\exemple pratique.exe
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\exemple pratique.deps.json
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\exemple pratique.runtimeconfig.json
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\exemple pratique.runtimeconfig.dev.json
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\exemple pratique.dll
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\exemple pratique.pdb
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\exemple pratique.Views.dll
+C:\Users\mikol\Music\asp\exemple pratique\bin\Debug\netcoreapp3.1\exemple pratique.Views.pdb
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.csproj.AssemblyReference.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.AssemblyInfoInputs.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.AssemblyInfo.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.RazorAssemblyInfo.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.RazorAssemblyInfo.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\staticwebassets\exemple pratique.StaticWebAssets.Manifest.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\staticwebassets\exemple pratique.StaticWebAssets.xml
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\scopedcss\bundle\exemple pratique.styles.css
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.TagHelpers.input.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.TagHelpers.output.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.RazorCoreGenerate.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.RazorTargetAssemblyInfo.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.RazorTargetAssemblyInfo.cs
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.Views.pdb
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.dll
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.pdb
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.genruntimeconfig.cache
+C:\Users\mikol\Music\asp\exemple pratique\obj\Debug\netcoreapp3.1\exemple pratique.csproj.CopyComplete
